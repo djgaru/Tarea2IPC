@@ -1,0 +1,30 @@
+
+<html>
+<head>
+<title> IPC1_A_1S2015 </title>
+</head>
+<body bgcolor="#00FFFF">
+
+<tr><h1> IPC1_A_1S2015 </h1></tr>
+
+<table border=1 width=900>
+<tr>
+<td width=500><h1> Nombre: </h1>
+</td>
+<td width=500><h1> No. de Carnet: </h1>
+</td>
+<td><IMG SRC="dj garu3.gif">
+</td>
+</tr>
+
+<tr>
+<td width=500><h1> Edgar Alfonso Perez Hernandez </h1>
+</td>
+<td width=500><h1> 2010-21195 </h1>
+</td>
+<td><IMG SRC="logo usac.gif">
+</tr>
+</table>
+
+</body>
+</html>
