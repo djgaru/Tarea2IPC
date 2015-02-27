@@ -5,24 +5,24 @@
 </head>
 <body bgcolor="#00FFFF">
 
-<tr><h1> IPC1_A_1S2015 </h1></tr>
+<tr><h1> Introduccion a la Programacion y Computacion 1 </h1></tr>
 
 <table border=1 width=900>
 <tr>
-<td width=500><h1> Nombre: </h1>
+<td width=500 ALIGN=CENTER><h2> Nombre: </h2>
 </td>
-<td width=500><h1> No. de Carnet: </h1>
+<td width=500 ALIGN=CENTER><h2> No. de Carnet: </h2>
 </td>
-<td><IMG SRC="dj garu3.gif">
+<td width=500 ALIGN=CENTER><IMG SRC="dj garu3.gif">
 </td>
 </tr>
 
 <tr>
-<td width=500><h1> Edgar Alfonso Perez Hernandez </h1>
+<td width=500 ALIGN=CENTER><h2> Edgar Alfonso Perez Hernandez </h2>
 </td>
-<td width=500><h1> 2010-21195 </h1>
+<td width=500 ALIGN=CENTER><h2> 2010-21195 </h2>
 </td>
-<td><IMG SRC="logo usac.gif">
+<td width=500 ALIGN=CENTER><IMG SRC="logo usac.gif"></td>
 </tr>
 </table>
 
